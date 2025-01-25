@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Organic Bananas",
+      "image": "https://i5.walmartimages.com/seo/Marketside-Fresh-Organic-Bananas-Bunch_4b15d1c6-03e7-489b-96cb-7d4b1edeb927.042464e5bc52fa0421f255d04ec525a4.jpeg",
+      "weight": "7pcs, Priceg",
+      "price": 4.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": 2,
+      "name": "Red Apple",
+      "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": 3,
+      "name": "Bell Pepper Red",
+      "image": "https://i5.walmartimages.com/seo/Fresh-Red-Bell-Pepper-1-Each_7be94a8e-9a5d-4f87-842f-5fe4084138ba.c95d36e140f5e0d492ca632b42e4543c.jpeg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": 5,
+      "name": "Bell Pepper Red",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAww8aJh9Vvfy5Zmx96UeKi20C0YDdPbxj6Q&s",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": 6,
+      "name": "Pear",
+      "image": "https://udoba.org/sites/default/files/h5p/content/89012/images/image-6485d5bfeb9d3.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Groceries"
+    },
+    {
+      "id": 7,
+      "name": "Apple",
+      "image": "https://aramgarhorchards.com/wp-content/uploads/2018/08/peach-2.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Groceries"
+    },
+    {
+      "id": 8,
+      "name": "Apple",
+      "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
+      "weight": "4kg, Priceg",
+      "price": 4.99,
+      "category": "Groceries"
+    },
+    {
+      "id": 9,
+      "name": "Pear",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6PeXvFHnzsa3O99swbZjGZqKvEdXaNdEsw&s",
+      "weight": "5,6kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": 10,
+      "name": "Pear",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6PeXvFHnzsa3O99swbZjGZqKvEdXaNdEsw&s",
+      "weight": "5,6kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": 11,
+      "name": "Morkov",
+      "image": "https://foodcity.ru/storage/products/October2018/DxatbOmnq25mAwFQpfCg.jpg",
+      "weight": "6,6kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": 12,
+      "name": "Morkov",
+      "image": "https://foodcity.ru/storage/products/October2018/DxatbOmnq25mAwFQpfCg.jpg",
+      "weight": "6,6kg, Priceg",
+      "price": 4.99,
+      "category": "Best Selling"
+    }
+  ],
+
+  "offer":[
+    {
+      "id": 1,
+      "ism": "Yashil olma",
+      "rasm": "",
+      "vessi": "1kg",
+      "narhi": 2,
+      "categoriya": "Offer"
+    }
+  ],
+
+  "categories": [
+  {
+    "id": 1,
+    "title": "Pulses",
+    "image": "https://i.imgur.com/pulses.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rice",
+    "image": "https://i.imgur.com/rice.jpg"
+  }
+]
+
+}
