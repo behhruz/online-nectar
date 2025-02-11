@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Organic Bananas",
       "image": "https://i5.walmartimages.com/seo/Marketside-Fresh-Organic-Bananas-Bunch_4b15d1c6-03e7-489b-96cb-7d4b1edeb927.042464e5bc52fa0421f255d04ec525a4.jpeg",
       "weight": "7pcs, Priceg",
@@ -9,7 +9,7 @@
       "category": "Exclusive Offer"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Red Apple",
       "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
       "weight": "1kg, Priceg",
@@ -17,7 +17,7 @@
       "category": "Exclusive Offer"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Bell Pepper Red",
       "image": "https://i5.walmartimages.com/seo/Fresh-Red-Bell-Pepper-1-Each_7be94a8e-9a5d-4f87-842f-5fe4084138ba.c95d36e140f5e0d492ca632b42e4543c.jpeg",
       "weight": "1kg, Priceg",
@@ -25,7 +25,7 @@
       "category": "Best Selling"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Bell Pepper Red",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAww8aJh9Vvfy5Zmx96UeKi20C0YDdPbxj6Q&s",
       "weight": "1kg, Priceg",
@@ -33,7 +33,7 @@
       "category": "Best Selling"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Pear",
       "image": "https://udoba.org/sites/default/files/h5p/content/89012/images/image-6485d5bfeb9d3.jpg",
       "weight": "1kg, Priceg",
@@ -41,7 +41,7 @@
       "category": "Groceries"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Apple",
       "image": "https://aramgarhorchards.com/wp-content/uploads/2018/08/peach-2.jpg",
       "weight": "1kg, Priceg",
@@ -49,7 +49,7 @@
       "category": "Groceries"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Apple",
       "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
       "weight": "4kg, Priceg",
@@ -57,7 +57,7 @@
       "category": "Groceries"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Pear",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6PeXvFHnzsa3O99swbZjGZqKvEdXaNdEsw&s",
       "weight": "5,6kg, Priceg",
@@ -65,7 +65,7 @@
       "category": "Best Selling"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Pear",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6PeXvFHnzsa3O99swbZjGZqKvEdXaNdEsw&s",
       "weight": "5,6kg, Priceg",
@@ -73,7 +73,7 @@
       "category": "Best Selling"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Morkov",
       "image": "https://foodcity.ru/storage/products/October2018/DxatbOmnq25mAwFQpfCg.jpg",
       "weight": "6,6kg, Priceg",
@@ -81,37 +81,216 @@
       "category": "Best Selling"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Morkov",
       "image": "https://foodcity.ru/storage/products/October2018/DxatbOmnq25mAwFQpfCg.jpg",
       "weight": "6,6kg, Priceg",
       "price": 4.99,
+      "category": "Best Selling"
+    },
+    {
+      "id": "13",
+      "name": "Chicken Meat",
+      "image": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/20/USATODAY/usatsports/imageforentry11-5xb.jpg",
+      "weight": "1kg, Priceg",
+      "price": 6.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "14",
+      "name": "Gold Apple",
+      "image": "https://www.applesfromny.com/wp-content/uploads/2020/06/GingerGoldNEW.png",
+      "weight": "2kg, Priceg",
+      "price": 3.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "15",
+      "name": "Red Apple",
+      "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
+      "weight": "4kg, Priceg",
+      "price": 4.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "16",
+      "name": "Peach",
+      "image": "https://m.media-amazon.com/images/I/71k4V-AXuoL._AC_SL1198_.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "17",
+      "name": "Japanese Peach",
+      "image": "https://blog.sakura.co/wp-content/uploads/2022/03/shutterstock_675217411-1.png",
+      "weight": "6kg, Priceg",
+      "price": 19,
+      "category": "Best Selling"
+    },
+    {
+      "id": "15",
+      "name": "Watermelon",
+      "image": "https://m.media-amazon.com/images/I/81Ed-nUvE+L.jpg",
+      "weight": "1kg, Priceg",
+      "price": 3.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "16",
+      "name": "Watermelon",
+      "image": "https://www.melissas.com/cdn/shop/files/image-of-organic-mini-yellow-seedless-watermelons-fruit-33928188919852_512x512.jpg?v=1683550910",
+      "weight": "3kg, Priceg",
+      "price": 3.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "17",
+      "name": "RedBull",
+      "image": "https://images.uzum.uz/cl9le0l6sfhgee0lnaf0/original.jpg",
+      "weight": "250ml, Priceg",
+      "price": 3.99,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "18",
+      "name": "Pepsi",
+      "image": "https://dostavo4ka.uz/upload-file/2021/07/01/6222/e67fdad5-0604-41bf-8e41-0a514960f1d5.jpg",
+      "weight": "250ml, Priceg",
+      "price": 0.6,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "8",
+      "name": "Feastables",
+      "image": "https://snackoland.lv/6241-large_default/mr-beast-feastables-chocolate-with-almonds-60g.jpg",
+      "weight": "60g, Priceg",
+      "price": 1,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "PRIME GLOWBEY FLAVOUR",
+      "image": "https://images-cdn.ubuy.com.sa/66c7d94df82c31491f601cbb-prime-hydration-drink-glowberry-16oz.jpg",
+      "weight": "250ml , Priceg",
+      "price": 2,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "PRIME Banana Strawberry Energy",
+      "image": "https://candycave.ie/cdn/shop/files/strawberryandbanana.webp?v=1711388040",
+      "weight": "250ml , Priceg",
+      "price": 2,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "PRIME SPACE MERCURY",
+      "image": "https://images.albertsons-media.com/is/image/ABS/970582434-ECOM?$ng-ecom-pdp-desktop$&defaultImage=Not_Available",
+      "weight": "250ml , Priceg",
+      "price": 2,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "PRIME & IshowSpeed",
+      "image": "https://drinkprime.com/cdn/shop/files/Speed-Bottle-Front_b2fe6348-b16b-4582-b0fb-c2f3efcc2bc5_1200x.png?v=1727210047  ",
+      "weight": "250ml , Priceg",
+      "price": 2,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "PRIME 300UFC",
+      "image": "https://i5.walmartimages.com/asr/8591e968-c75d-4b1f-bbf5-ce449969a91a.bd8d5d7954de3ccfe2caf0676a3a8878.png?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "weight": "250ml , Priceg",
+      "price": 2,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "18+",
+      "image": "https://navruzint.com/wp-content/uploads/2023/02/450.png",
+      "weight": "450ml , Priceg",
+      "price": 1,
+      "category": "Groceries"
+    },
+    {
+      "id": "8",
+      "name": "18+ Kaktus",
+      "image": "https://navruzint.com/wp-content/uploads/2024/07/kaktus.png",
+      "weight": "450ml , Priceg",
+      "price": 1.05,
+      "category": "Groceries"
+    },
+    {
+      "id": "16",
+      "name": "18+ Gold Status",
+      "image": "https://navruzint.com/wp-content/uploads/2024/07/special.png",
+      "weight": "450ml, Priceg",
+      "price": 1.05,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "16",
+      "name": "18+",
+      "image": "https://navruzint.com/wp-content/uploads/2024/07/special.png",
+      "weight": "450ml, Priceg",
+      "price": 1.05,
+      "category": "Exclusive Offer"
+    },
+    {
+      "id": "16",
+      "name": "Reing Energy LGBT Rainbow",
+      "image": "https://i5.walmartimages.com/seo/Reign-Total-Body-Fuel-Reignbow-Sherbet-Performance-Energy-Drink-16-fl-oz_c08ef534-eb0e-4a4a-ab59-b7a7e04e76d2.5f042f17678544df68961c50738f80f9.jpeg",
+      "weight": "450ml, Priceg",
+      "price": 1.05,
       "category": "Best Selling"
     }
   ],
-
-  "offer":[
+  "offer": [
     {
       "id": 1,
       "ism": "Yashil olma",
-      "rasm": "",
+      "rasm": "https://example.com/green-apple.jpg",
       "vessi": "1kg",
       "narhi": 2,
       "categoriya": "Offer"
+    },
+    {
+      "id": 2,
+      "ism": "Banana",
+      "rasm": "https://example.com/banana.jpg",
+      "vessi": "1kg",
+      "narhi": 3,
+      "categoriya": "Offer"
     }
   ],
-
   "categories": [
-  {
-    "id": 1,
-    "title": "Pulses",
-    "image": "https://i.imgur.com/pulses.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Rice",
-    "image": "https://i.imgur.com/rice.jpg"
-  }
-]
-
+    {
+      "id": 1,
+      "name": "All"
+    },
+    {
+      "id": 2,
+      "name": "Groceries"
+    },
+    {
+      "id": 3,
+      "name": "Rice"
+    },
+    {
+      "id": 4,
+      "name": "Vegetables"
+    },
+    {
+      "id": 5,
+      "name": "Fruits"
+    },
+    {
+      "id": 6,
+      "name": "Dairy"
+    }
+  ]
 }

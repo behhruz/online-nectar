@@ -1,0 +1,305 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "email": "test@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "0f2c",
+      "username": "benjamin",
+      "email": "jalol@gmail.com",
+      "password": "jalol200904"
+    },
+    {
+      "id": "9365",
+      "username": "benjamin",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "9df1",
+      "username": "Behruz",
+      "email": "behruz@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "db8f",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "467f",
+      "username": "benjamin",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "dc87",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "93b4",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "5890",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "276b",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "f370",
+      "email": "fefe@gmail.com",
+      "username": "fefe",
+      "password": "fef"
+    },
+    {
+      "id": "3a77",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "c513",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "fec5",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "5b4e",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "ecb1",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "5dff",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "0915",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "68c3",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "03c2",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "1cd0",
+      "email": "jalol@gmail.com",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "a3c8",
+      "username": "jalol2",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "8085",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "f0cc",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "b94a",
+      "email": "sad@gmail.com",
+      "password": "fefe"
+    },
+    {
+      "id": "79af",
+      "username": "asd",
+      "email": "asd@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "4214",
+      "email": "asd@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "a154",
+      "email": "asd@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "2764",
+      "email": "asd@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "a683",
+      "email": "asd@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "b8b5",
+      "email": "dsa@d",
+      "password": "dsa"
+    },
+    {
+      "id": "27e5",
+      "username": "jalol",
+      "email": "jalol@a",
+      "password": "jalol"
+    },
+    {
+      "id": "6f44",
+      "email": "sad@gmail.com",
+      "password": "sad"
+    },
+    {
+      "id": "3796",
+      "email": "jalol@a",
+      "password": "jalol"
+    },
+    {
+      "id": "ab63",
+      "username": "hah",
+      "email": "hah@g",
+      "password": "hah"
+    },
+    {
+      "id": "ba60",
+      "username": "jalol",
+      "email": "jalol@gmail.com",
+      "password": "jalol"
+    },
+    {
+      "id": "63e9",
+      "email": "fefe@gmail.com",
+      "password": "fef"
+    },
+    {
+      "id": "4df8",
+      "username": "rfeds",
+      "password": "grfedsw"
+    },
+    {
+      "id": "1cf9",
+      "username": "rfeds",
+      "password": "grfedsw"
+    },
+    {
+      "id": "d8a5",
+      "username": "rfeds",
+      "password": "grfedsw"
+    },
+    {
+      "id": "e02c",
+      "username": "jalol",
+      "email": "jalol@g",
+      "password": "jalol"
+    },
+    {
+      "id": "8fff",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "cbad",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "20fc",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "6c19",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "dcdd",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "8227",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "ef37",
+      "username": "jalol",
+      "password": "jalol"
+    },
+    {
+      "id": "3f8a",
+      "email": "kjhgfd@gmail.com",
+      "username": "kjhgf",
+      "password": "kjhgfd"
+    },
+    {
+      "id": "4f93",
+      "username": "jalol",
+      "email": "jalol@f",
+      "password": "jalol"
+    },
+    {
+      "id": "b31b",
+      "username": "bb",
+      "email": "bb@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2193",
+      "name": "Red Apple",
+      "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "quantity": 1
+    },
+    {
+      "id": "cf24",
+      "name": "Red Apple",
+      "image": "https://fruityland.co/wp-content/uploads/2021/02/Red-Delicious-FL.jpg",
+      "weight": "1kg, Priceg",
+      "price": 4.99,
+      "quantity": 1
+    }
+  ]
+}

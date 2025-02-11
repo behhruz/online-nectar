@@ -1,0 +1,650 @@
+{
+    "categories": [
+        {
+            "name": "Fresh Fruits & Vegetables",
+            "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/304968021/VT/RB/HM/189081511/fresh-fruit-and-vegetable.jpg",
+            "hasItems": true,
+            "route": "/fresh-fruits"
+        },
+        {
+            "name": "Cooking Oil & Ghee",
+            "image": "https://www.medindia.net/images/common/news/950_400/healthy-oil.jpg",
+            "hasItems": true,
+            "route": "/cooking-oil"
+        },
+        {
+            "name": "Meat & Fish",
+            "image": "https://japanbite.com/cdn/shop/articles/featured_image_3ac868b2-7ad1-4fc2-adb9-38bf5a447241-369559.jpg?v=1715329600",
+            "hasItems": true,
+            "route": "/meat-fish"
+        },
+        {
+            "name": "Bakery & Snacks",
+            "image": "https://media.licdn.com/dms/image/v2/C4E1BAQG7tiytsN6DDQ/company-background_10000/company-background_10000/0/1584534091484/snack_food_wholesale_bakery_cover?e=2147483647&v=beta&t=VGzDpCfx8eaKCYfx0UHIilOMSsj5aDd7m853GyP6Ktg",
+            "hasItems": false,
+            "route": "/bakery"
+        },
+        {
+            "name": "Dairy & Eggs",
+            "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/08/AN480-Eggs-Dairy-732x549-thumb-1-732x549.jpg",
+            "hasItems": true,
+            "route": "/dairy-eggs"
+        },
+        {
+            "name": "Beverages",
+            "image": "https://nawon.com.vn/wp-content/uploads/2024/01/soft-drinks.jpg",
+            "hasItems": false,
+            "route": "/beverages"
+        }
+    ],
+    "beverages": [
+        {
+            "id": 1,
+            "title": "gazli",
+            "brands": {
+                "Cola": [
+                    {
+                        "id": 1,
+                        "name": "Coca-Cola",
+                        "brand": "Coca-Cola",
+                        "price": "$1.50",
+                        "image": "https://avatars.mds.yandex.net/get-eda/3813301/e1573f1dab57f0a2eed7523e9f487582/orig"
+                    }
+                ],
+                "Pepsi": [
+                    {
+                        "id": 2,
+                        "name": "Pepsi",
+                        "brand": "PepsiCo",
+                        "price": "$1.40",
+                        "image": "https://static.tildacdn.com/tild6632-6538-4232-a662-643936376631/Pepsi_cola_033_l.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "sok",
+            "brands": {
+                "Tropicana": [
+                    {
+                        "id": 3,
+                        "name": "Orange Juice",
+                        "brand": "Tropicana",
+                        "price": "$3.20",
+                        "image": "https://i.pinimg.com/736x/96/4e/48/964e48602bfe38e17f43f8f007a3c657.jpg"
+                    }
+                ],
+                "Maid": [
+                    {
+                        "id": 4,
+                        "name": "Apple Juice",
+                        "brand": "Minute Maid",
+                        "price": "$3.00",
+                        "image": "https://avatars.mds.yandex.net/i?id=8bf08efa08232a068c0e887e1e7ad5ae_l-5241311-images-thumbs&n=13"
+                    }
+                ],
+                "Simply": [
+                    {
+                        "id": 5,
+                        "name": "Lemonade",
+                        "brand": "Simply Lemonade",
+                        "price": "$2.50",
+                        "image": "https://getitfree.us/wp-content/uploads/2016/10/new-gif-freebie-Calypso-Lemonade.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "gazsiz",
+            "brands": {
+                "Lipton": [
+                    {
+                        "id": 6,
+                        "name": "Green Tea",
+                        "brand": "Lipton",
+                        "price": "$2.00",
+                        "image": "http://ae04.alicdn.com/kf/Hd1cf5de3010e4e32bb8beb1f67331691t/Lipton.jpg"
+                    }
+                ],
+                "Starbucks": [
+                    {
+                        "id": 7,
+                        "name": "Black Coffee",
+                        "brand": "Starbucks",
+                        "price": "$2.50",
+                        "image": "https://avatars.mds.yandex.net/get-mpic/7179065/img_id2318787398219983744.jpeg/orig"
+                    }
+                ],
+                "McDonald": [
+                    {
+                        "id": 8,
+                        "name": "Milkshake",
+                        "brand": "McDonald's",
+                        "price": "$4.00",
+                        "image": "https://fastly.4sqi.net/img/general/600x600/32917505_3y6eaPc2rQPzSsZHqCykppRsK19sfUHYCySIY2v4yMU.jpg"
+                    }
+                ],
+                "RedBull": [
+                    {
+                        "id": 9,
+                        "name": "Energy Drink",
+                        "brand": "Red Bull",
+                        "price": "$3.50",
+                        "image": "https://imgproxy.sbermarket.ru/imgproxy/size-680-680/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0MTU5OTEzL29yaWdpbmFsLzEvMjAyMy0xMS0yNFQxNSUzQTM1JTNBNDguMDkzNzk4JTJCMDAlM0EwMC8yNDE1OTkxM18xLmpwZw==.jpg"
+                    }
+                ],
+                "Arizona": [
+                    {
+                        "id": 10,
+                        "name": "Iced Tea",
+                        "brand": "Arizona",
+                        "price": "$2.80",
+                        "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/356/792/163/103/123/7/100060828406b0.jpg"
+                    }
+                ]
+            }
+        }
+    ],
+    "bakery": [
+        {
+            "id": 1,
+            "title": "Croissants",
+            "route": "/bakery-snacks",
+            "brands": {
+                "French Bakery": [
+                    {
+                        "id": 1,
+                        "name": "Chocolate Croissant",
+                        "price": "$2.50",
+                        "image": "https://avatars.mds.yandex.net/i?id=0e7fc2c5df0d0ea5191be4479e258d406574ab4e-4628296-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Breads",
+            "brands": {
+                "Traditional Breads": [
+                    {
+                        "id": 3,
+                        "name": "Baguette",
+                        "price": "$2.20",
+                        "image": "https://avatars.mds.yandex.net/i?id=673abd0e13d13d44c17db9707abd5942_l-5527999-images-thumbs&n=13"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cheese Bread",
+                        "price": "$3.50",
+                        "image": "https://avatars.mds.yandex.net/i?id=81ff268bf10ae7e2ce2518862f09ade976260cae-11918841-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Pastries",
+            "brands": {
+                "Sweet Treats": [
+                    {
+                        "id": 4,
+                        "name": "Donut",
+                        "price": "$1.80",
+                        "image": "https://i.pinimg.com/originals/27/d3/4e/27d34e138adcb00f3128c525f99f4083.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Puff Pastry",
+                        "price": "$3.20",
+                        "image": "https://avatars.mds.yandex.net/i?id=b696e9845fe80f7ab1b369bd43d6709c9e719ded-10831694-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "Desserts",
+            "brands": {
+                "Sweet Delights": [
+                    {
+                        "id": 6,
+                        "name": "Brownie",
+                        "price": "$2.70",
+                        "image": "https://avatars.mds.yandex.net/i?id=839616b399f13d516e64ffacd3e355b8c12fd87f-8365662-images-thumbs&n=13"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Cupcake",
+                        "price": "$3.00",
+                        "image": "https://avatars.mds.yandex.net/i?id=f7243ab44b7c632abf60899e4b23fe4b-5070492-images-thumbs&n=13"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Cookies",
+                        "price": "$2.50",
+                        "image": "https://imgproxy.sbermarket.ru/imgproxy/size-680-680/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzIwNDQ3MzEzL29yaWdpbmFsLzEvMjAyMi0wOC0yMVQxOCUzQTI4JTNBNTYuNDQ0MDAwJTJCMDAlM0EwMC8yMDQ0NzMxM18xLmpwZw==.jpg"
+                    }
+                ]
+            }
+        }
+    ],
+    "FreshFruits": [
+        {
+            "id": 1,
+            "title": "Fruits",
+            "brands": {
+                "Washington Apples": [
+                    {
+                        "id": 1,
+                        "name": "Apple",
+                        "brand": "Washington Apples",
+                        "price": "$2.99/kg",
+                        "image": "https://2.bp.blogspot.com/-D5dsi8NglsI/WP4eNrob8KI/AAAAAAAAASk/H8HSDeERTa0A7eWYyxiFSZ30OWGyMHLHwCLcB/s640/apel.png"
+                    }
+                ],
+                "Chiquita": [
+                    {
+                        "id": 2,
+                        "name": "Banana",
+                        "brand": "Chiquita",
+                        "price": "$1.50/kg",
+                        "image": "https://cfn-catalog-prod.tradeling.com/up/5eeef1266d49e1001c65f990/f059491bc4e686eef5faa7e075b5934b.jpg"
+                    }
+                ],
+                "Sunkist": [
+                    {
+                        "id": 6,
+                        "name": "Orange",
+                        "brand": "Sunkist",
+                        "price": "$3.00/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=71a5484708046bbe854f1233190bac37af81292b-5692725-images-thumbs&n=13"
+                    }
+                ],
+                "Harry & David": [
+                    {
+                        "id": 7,
+                        "name": "Mango",
+                        "brand": "Harry & David",
+                        "price": "$4.50/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=7c76bbef5c8e407e871adb2162f748f4_sr-4077930-images-thumbs&n=13"
+                    }
+                ],
+                "Driscoll's": [
+                    {
+                        "id": 8,
+                        "name": "Strawberry",
+                        "brand": "Driscoll's",
+                        "price": "$5.20/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=58d87bb43f42dd201775ffbe21a10c38be6db614-8312318-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Vegetables",
+            "brands": {
+                "Bolthouse Farms": [
+                    {
+                        "id": 3,
+                        "name": "Carrot",
+                        "brand": "Bolthouse Farms",
+                        "price": "$1.80/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=6586a41235ec1956f1061bf6b827a24f_l-10250482-images-thumbs&n=13"
+                    }
+                ],
+                "Heinz": [
+                    {
+                        "id": 4,
+                        "name": "Tomato",
+                        "brand": "Heinz",
+                        "price": "$2.20/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=55f18745b8b179c7da251621249d924f69695409-8194143-images-thumbs&n=13"
+                    }
+                ],
+                "Dole": [
+                    {
+                        "id": 5,
+                        "name": "Cucumber",
+                        "brand": "Dole",
+                        "price": "$1.75/kg",
+                        "image": "https://i.pinimg.com/736x/91/7d/1c/917d1c4159950c906e0835ee9d310b09.jpg"
+                    }
+                ],
+                "Green Giant": [
+                    {
+                        "id": 9,
+                        "name": "Broccoli",
+                        "brand": "Green Giant",
+                        "price": "$2.90/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=a9e9a114cdb7c8dfae0ec004c50b55f2dee9abfa-5334334-images-thumbs&n=13"
+                    }
+                ],
+                "Idaho Potatoes": [
+                    {
+                        "id": 10,
+                        "name": "Potato",
+                        "brand": "Idaho Potatoes",
+                        "price": "$1.25/kg",
+                        "image": "https://avatars.dzeninfra.ru/get-zen_doc/4976231/pub_62d18e709b5a84418854f436_62d1903337b710787a8af79b/scale_1200"
+                    }
+                ]
+            }
+        }
+    ],
+    "Oils": [
+        {
+            "id": 1,
+            "title": "Expensive Oils",
+            "brands": {
+                "Bertolli": [
+                    {
+                        "id": 1,
+                        "name": "Olive Oil",
+                        "brand": "Bertolli",
+                        "price": "$10.99/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=1a29ab45ba305c94aa0e3c423ad0b359f20807a295b5a582-12685009-images-thumbs&n=13"
+                    }
+                ],
+                "Nutiva": [
+                    {
+                        "id": 2,
+                        "name": "Coconut Oil",
+                        "brand": "Nutiva",
+                        "price": "$8.50/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=c6fcaca142c26ac2ce308efc84e9273750ab48aa-8770658-images-thumbs&n=13"
+                    }
+                ],
+                "Amul": [
+                    {
+                        "id": 3,
+                        "name": "Ghee",
+                        "brand": "Amul",
+                        "price": "$12.30/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=e66141143b28514e6e99d8fcabf1d522581817c9-10698057-images-thumbs&n=13"
+                    }
+                ],
+                "Planters": [
+                    {
+                        "id": 4,
+                        "name": "Peanut Oil",
+                        "brand": "Planters",
+                        "price": "$9.20/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=c4f102dc1e1a1372ba2f98239ce46d55a0bded14-8340947-images-thumbs&n=13"
+                    }
+                ],
+                "Kadoya": [
+                    {
+                        "id": 5,
+                        "name": "Sesame Oil",
+                        "brand": "Kadoya",
+                        "price": "$11.50/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=1c044b650d099cbbd7a5217879eb8a995487711d-12714897-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Cheap Oils",
+            "brands": {
+                "Flora": [
+                    {
+                        "id": 6,
+                        "name": "Sunflower Oil",
+                        "brand": "Flora",
+                        "price": "$5.99/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=93303d8983ec081cdce4fc6c1101f1d49cec28f2-10099509-images-thumbs&n=13"
+                    }
+                ],
+                "Mazola": [
+                    {
+                        "id": 7,
+                        "name": "Canola Oil",
+                        "brand": "Mazola",
+                        "price": "$6.75/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=bc747444bc16f9217c0a0e7d66769c2c681af88a-6969813-images-thumbs&n=13"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Corn Oil",
+                        "brand": "Mazola",
+                        "price": "$5.30/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=7d5937883693aa15389626ad907af2ce8a1cadac-5342984-images-thumbs&n=13"
+                    }
+                ],
+                "Crisco": [
+                    {
+                        "id": 9,
+                        "name": "Soybean Oil",
+                        "brand": "Crisco",
+                        "price": "$4.80/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=a5badf298e29af766bf0208e6bd8304e8c0b0e14-8209530-images-thumbs&n=13"
+                    }
+                ],
+                "Wesson": [
+                    {
+                        "id": 10,
+                        "name": "Vegetable Oil",
+                        "brand": "Wesson",
+                        "price": "$3.99/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=8401784193fef4690c35f0005ccc69ba1a0ae770-8313736-images-thumbs&n=13"
+                    }
+                ]
+            }
+        }
+    ],
+    "DairyEggs": [
+        {
+            "id": 1,
+            "title": "Milk & Cream",
+            "brands": {
+                "Horizon Organic": [
+                    {
+                        "id": 1,
+                        "name": "Whole Milk",
+                        "brand": "Horizon Organic",
+                        "price": "$3.99/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=84520d7612fd5b44c2f8a87940d790d8a2221333ef43bb56-12317703-images-thumbs&n=13"
+                    }
+                ],
+                "Organic Valley": [
+                    {
+                        "id": 2,
+                        "name": "Low-Fat Milk",
+                        "brand": "Organic Valley",
+                        "price": "$3.49/L",
+                        "image": "https://m.media-amazon.com/images/I/81rlnFgfxhL._SL1500_.jpg"
+                    }
+                ],
+                "Nestlé": [
+                    {
+                        "id": 3,
+                        "name": "Cream",
+                        "brand": "Nestlé",
+                        "price": "$3.75/L",
+                        "image": "https://avatars.mds.yandex.net/i?id=2a0000017a02a6c8e6ad1628377f3be5c43e-4253789-images-thumbs&n=13"
+                    }
+                ],
+                "Meyenberg": [
+                    {
+                        "id": 4,
+                        "name": "Goat Milk",
+                        "brand": "Meyenberg",
+                        "price": "$7.50/L",
+                        "image": "https://cdn.4stand.com/large2x/38/6a/386a35ee64dcec8a2b2a0ecba6bdee38ed992cf2.jpg"
+                    }
+                ],
+                "Fairlife": [
+                    {
+                        "id": 5,
+                        "name": "Lactose-Free Milk",
+                        "brand": "Fairlife",
+                        "price": "$5.30/L",
+                        "image": "https://i.pinimg.com/736x/df/ec/5d/dfec5db625805e2333c36962d35bdc7a.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Cheese & Butter",
+            "brands": {
+                "Kraft": [
+                    {
+                        "id": 6,
+                        "name": "Cheese",
+                        "brand": "Kraft",
+                        "price": "$5.99/kg",
+                        "image": "https://assets.biglots.com/is/image/biglots/810359869-1"
+                    }
+                ],
+                "Daisy": [
+                    {
+                        "id": 7,
+                        "name": "Cottage Cheese",
+                        "brand": "Daisy",
+                        "price": "$6.25/kg",
+                        "image": "https://www.daisybrand.com/wp-content/uploads/2023/07/Cottage-Cheese-crescendo-copy.png"
+                    }
+                ],
+                "Land O'Lakes": [
+                    {
+                        "id": 8,
+                        "name": "Butter",
+                        "brand": "Land O'Lakes",
+                        "price": "$4.50/pack",
+                        "image": "/https://i5.walmartimages.com/seo/Land-O-Lakes-Salted-Stick-Butter-16-oz-4-Sticks_14e48b15-468d-4496-95e5-dcaf70c1f466.92d7f75a81c4bc531edf0a13d050d13e.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Yogurt & Eggs",
+            "brands": {
+                "Chobani": [
+                    {
+                        "id": 9,
+                        "name": "Yogurt",
+                        "brand": "Chobani",
+                        "price": "$2.99/cup",
+                        "image": "https://images-cdn.ubuy.co.in/635fb4312190f9444e709775-chobani-low-fat-coconut-blended-greek.jpg"
+                    }
+                ],
+                "Eggland's Best": [
+                    {
+                        "id": 10,
+                        "name": "Eggs (12 Pack)",
+                        "brand": "Eggland's Best",
+                        "price": "$4.20/dozen",
+                        "image": "https://images-na.ssl-images-amazon.com/images/I/71cPGRWsMPL._SL1500_.jpg"
+                    }
+                ]
+            }
+        }
+    ],
+    "FreshMeatAndSeafood": [
+        {
+            "id": 1,
+            "title": "Beef & Chicken",
+            "brands": {
+                "Certified Angus Beef": [
+                    {
+                        "id": 1,
+                        "name": "Beef Steak",
+                        "brand": "Certified Angus Beef",
+                        "price": "$12.99/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=52d7170d120cc7f634816e139544231d1ac806704f982358-5335562-images-thumbs&n=13"
+                    }
+                ],
+                "Perdue Farms": [
+                    {
+                        "id": 2,
+                        "name": "Chicken Breast",
+                        "brand": "Perdue Farms",
+                        "price": "$6.49/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=3d13e903e38cbab403248ded9185681789f5b2b0-12319474-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Lamb & Pork",
+            "brands": {
+                "Australian Lamb": [
+                    {
+                        "id": 3,
+                        "name": "Lamb Chops",
+                        "brand": "Australian Lamb",
+                        "price": "$14.99/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=36b572c6d2f0ba49dc7e2125ec066938-4560311-images-thumbs&n=13"
+                    }
+                ],
+                "Smithfield": [
+                    {
+                        "id": 4,
+                        "name": "Pork Ribs",
+                        "brand": "Smithfield",
+                        "price": "$11.25/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=a1f3a94e2a816f4ec804799bb8b0262ccce3c859-12532894-images-thumbs&n=13"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Seafood",
+            "brands": {
+                "Norwegian Salmon": [
+                    {
+                        "id": 6,
+                        "name": "Salmon Fillet",
+                        "brand": "Norwegian Salmon",
+                        "price": "$19.50/kg",
+                        "image": "https://avatars.mds.yandex.net/get-mpic/5332728/img_id6366166857106467660.jpeg/orig"
+                    }
+                ],
+                "Wild Planet": [
+                    {
+                        "id": 7,
+                        "name": "Tuna Steak",
+                        "brand": "Wild Planet",
+                        "price": "$22.75/kg",
+                        "image": "https://m.media-amazon.com/images/I/81FROfBDSXL._AC_UL960_QL65_.jpg"
+                    }
+                ],
+                "SeaPak": [
+                    {
+                        "id": 8,
+                        "name": "Shrimp",
+                        "brand": "SeaPak",
+                        "price": "$15.30/kg",
+                        "image": "https://www.cuisineryfoodmarket.com/cdn/shop/files/H56617WildMediterraneanRedShrimpLARGE.jpg?v=1692641759"
+                    }
+                ],
+                "Blue Star": [
+                    {
+                        "id": 9,
+                        "name": "Crab Legs",
+                        "brand": "Blue Star",
+                        "price": "$29.99/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=a015b904af5df47c2bdaa1add9dcbd9e03f4deb8-8311862-images-thumbs&n=13"
+                    }
+                ],
+                "Maine Lobster": [
+                    {
+                        "id": 10,
+                        "name": "Lobster",
+                        "brand": "Maine Lobster",
+                        "price": "$35.50/kg",
+                        "image": "https://avatars.mds.yandex.net/i?id=1642bc9d47a91ec68476e7fa04964a0c98eaac26-9182224-images-thumbs&n=13"
+                    }
+                ]
+            }
+        }
+    ]
+}
